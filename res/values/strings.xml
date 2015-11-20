@@ -1,0 +1,7 @@
+<resources>
+ 
+    <string name="app_name">ViewPager Tutorial</string>
+    <string name="menu_settings">Settings</string>
+    <string name="ranklabel_string">"LOREM IPSUM"</string>
+ 
+</resources>
